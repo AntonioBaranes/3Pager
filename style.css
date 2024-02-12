@@ -1,0 +1,46 @@
+body {
+	background: black;
+	align-items: center;
+
+	background-image:url("background2.jpeg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+}
+
+.box{
+	text-align: center;
+	width: 100%;
+	padding: 10px;
+	border: 10px;
+}
+
+.header{
+	display: inline-block;
+	background-color: pink;
+	color: red;
+	font-family: 'Lucida Console', monospace;
+	font-size: 35px;
+	width: 50%;
+	padding:10px;
+	text-align: center;
+}
+
+.text{
+	display: inline-block;
+	background-color: pink;
+	color: red;
+	font-family: 'Lucida Console', monospace;
+	font-size: 20px;
+	width: 50%;
+	text-align: center;
+	padding: 10px;
+}
+.organizer{
+	width: 50%;
+	display: inline-block;
+	text-align: center;
+}
+.image{
+}
